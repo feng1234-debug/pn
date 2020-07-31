@@ -1,0 +1,11 @@
+测试用例,请求地址,请求参数,
+login_001,http://www.baidu.com,"{""username"":""wuya"",""p""}",
+login_002,http://www.baidu.com,"{""username"":""wuya"",""p""}",
+login_003,http://www.baidu.com,"{""username"":""wuya"",""p""}",
+login_004,http://www.baidu.com,"{""username"":""wuya"",""p""}",
+login_005,http://www.baidu.com,"{""username"":""wuya"",""p""}",
+login_006,http://www.baidu.com,"{""username"":""wuya"",""p""}",
+login_007,http://www.baidu.com,"{""username"":""wuya"",""p""}",
+login_008,http://www.baidu.com,"{""username"":""wuya"",""p""}",
+login_009,http://www.baidu.com,"{""username"":""wuya"",""p""}",哈哈
+login_010,http://www.baidu.com,"{""username"":""wuya"",""p""}",

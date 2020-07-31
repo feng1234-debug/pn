@@ -1,0 +1,17 @@
+#pip install pyyaml
+#pip install pytest==4.5.0
+#pip  install tavern
+#requests  response
+
+test_names:login接口
+
+stages:
+  name:test_login_001
+  request:
+    url:http://172.18.198.37
+    method:get
+    data:
+      username:admin
+      password:12345
+    response:
+      status:code:200
